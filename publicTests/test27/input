@@ -1,0 +1,1 @@
+puzzle(6_1,P),resolve(P,Solucao),writeln(Solucao);writeln('false').
